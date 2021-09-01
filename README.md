@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaloyan,
-- 👀 I’m interested in Programming, as a hobby.
-- 🌱 I’m currently learning C# as a programming langauage.
-- 💞️ I’m looking to collaborate on Full Stack Web Development with C#.
+- 👀 I’m interested in Web development and programming, as a hobby.
+- 🌱 I’m currently learning Web development /HTML, CSS, JS, C#, SQL/
+- 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me: @kaloyanTry
 
 <!---
