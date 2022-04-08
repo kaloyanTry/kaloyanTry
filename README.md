@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaloyan,
 - 👀 I’m interested in Web development and programming, as a hobby.
-- 🌱 I’m currently learning Web development /HTML, CSS, JS, Node.js, and C#, SQL/
-- 💞️ I’m looking to collaborate on Web Development.
+- 🌱 I’m currently coding small projects using JS, Node.js, HTML, CSS, and C#, SQL.
+- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me: @kaloyanTry
 
 <!---
